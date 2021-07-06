@@ -22,3 +22,5 @@ This app provides interface for users to acces news under various categories
 * Execute npm install to install all node modules
 * Run command node app.js
 * The app wil start listening to port 5678
+
+### Open Chrome and navigate to localhost:3000 to access the news web app
